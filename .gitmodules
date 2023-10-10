@@ -1,0 +1,3 @@
+[submodule "webpack-static-template"]
+	path = webpack-static-template
+	url = https://github.com/alex-karo/webpack-static-template
